@@ -2,7 +2,7 @@ body {
   background:#baeeff;
   opacity: 0;
   transition: opacity 3s;
-} 
+}  
 p {
   color: black;
 }
