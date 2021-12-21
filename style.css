@@ -3,7 +3,7 @@ body {
   opacity: 0;
   transition: opacity 3s;
 } 
-p {
+p { 
   color: black;
 }
 h1 {
