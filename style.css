@@ -17,7 +17,7 @@ a { color:white;font-size:20px}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: auto; 
 } 
 
 /* Hide the images by default */
